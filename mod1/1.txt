@@ -1,3 +1,6 @@
 fun abc (){
 plus
+if(plus){
+successfull;
+}
 }
